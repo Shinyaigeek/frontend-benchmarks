@@ -20,5 +20,9 @@
   "devDependencies": {
     "lerna": "^3.22.1",
     "ts-node": "^9.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^14.11.2",
+    "commander": "^6.1.0"
   }
 }

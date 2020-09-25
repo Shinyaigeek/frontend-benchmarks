@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "babel-loader": "^8.1.0",
+    "commander": "^6.1.0",
     "css-loader": "^4.3.0",
     "html-webpack-plugin": "^4.5.0",
     "style-loader": "^1.2.1",
