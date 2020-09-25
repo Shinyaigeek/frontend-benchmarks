@@ -3,7 +3,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   entry: {
-    bundle: "./src/App.tsx"
+    bundle: "./lib/hoge.ts"
   },
   output: {
     path: path.join(__dirname, "dist"),

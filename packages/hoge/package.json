@@ -18,7 +18,7 @@
     "url": "git+https://github.com/Shinyaigeek/frontend-benchmarks.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "build": "webpack"
   },
   "bugs": {
     "url": "https://github.com/Shinyaigeek/frontend-benchmarks/issues"

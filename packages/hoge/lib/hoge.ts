@@ -1,0 +1,7 @@
+
+
+function hoge() {
+    // TODO
+}
+
+hoge()
