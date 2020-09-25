@@ -18,6 +18,7 @@
     "url": "git+https://github.com/Shinyaigeek/frontend-benchmarks.git"
   },
   "scripts": {
+    "go": "ts-node main.ts"
   },
   "bugs": {
     "url": "https://github.com/Shinyaigeek/frontend-benchmarks/issues"
