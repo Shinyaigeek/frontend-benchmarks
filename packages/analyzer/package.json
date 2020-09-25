@@ -1,0 +1,26 @@
+{
+  "name": "analyzer",
+  "version": "0.0.1",
+  "description": "This is analizer to get performance log of each frontend",
+  "author": "shinyaigeek <PhilisPaxil@gmail.com>",
+  "homepage": "https://github.com/Shinyaigeek/frontend-benchmarks/tree/master/packages/analyzer#readme",
+  "license": "MIT",
+  "main": "main.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinyaigeek/frontend-benchmarks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Shinyaigeek/frontend-benchmarks/issues"
+  }
+}
