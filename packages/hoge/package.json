@@ -1,11 +1,11 @@
 {
-  "name": "analyzer",
-  "version": "0.0.1",
-  "description": "This is analizer to get performance log of each frontend",
+  "name": "hoge",
+  "version": "0.0.0",
+  "description": "> TODO: description",
   "author": "shinyaigeek <PhilisPaxil@gmail.com>",
-  "homepage": "https://github.com/Shinyaigeek/frontend-benchmarks/tree/master/packages/analyzer#readme",
-  "license": "MIT",
-  "main": "main.ts",
+  "homepage": "https://github.com/Shinyaigeek/frontend-benchmarks/tree/master/packages/hoge#readme",
+  "license": "ISC",
+  "main": "lib/hoge.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
